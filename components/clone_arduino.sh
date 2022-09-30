@@ -1,0 +1,1 @@
+git clone --recursive --branch idf-release/v4.4 https://github.com/espressif/arduino-esp32.git arduino
