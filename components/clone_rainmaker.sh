@@ -1,2 +1,1 @@
-git clone --recursive https://github.com/espressif/esp-rainmaker.git esp-rainmaker
-rm esp-rainmaker/components/esp_rainmaker/idf_component.yml
+#Nothing to be done as this component is now a managed component in Arduino
